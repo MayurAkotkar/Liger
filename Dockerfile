@@ -1,3 +1,3 @@
-FROM mayurakotkar022/liger:latest 
+FROM ubuntu/apapche2 
 COPY ./index.html /var/www/html/index.html
 
